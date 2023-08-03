@@ -4,7 +4,8 @@
 # ## Variables
 
 # 1) Crear una variable que contenga un elemento del conjunto de números enteros y luego imprimir por pantalla
-
+a = 2
+print(a)
 # In[7]:
 
 
